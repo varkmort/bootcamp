@@ -1,0 +1,16 @@
+name: ванная
+peopleCount: 0
+seats: 0
+volume: 2.3
+name: гостинная
+peopleCount: 2
+seats: 6
+volume: 15.9
+name: коридор
+peopleCount: 0
+seats: 2
+volume: 2.7
+name: прихожая
+peopleCount: 1
+seats: 3
+volume: 17.1

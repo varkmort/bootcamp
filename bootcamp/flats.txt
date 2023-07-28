@@ -1,0 +1,62 @@
+name: Резеденция Уейна
+roomsCount: 4
+name: ванная
+peopleCount: 0
+seats: 0
+volume: 2.3
+name: гостинная
+peopleCount: 2
+seats: 6
+volume: 15.9
+name: коридор
+peopleCount: 0
+seats: 2
+volume: 2.7
+name: прихожая
+peopleCount: 1
+seats: 3
+volume: 17.1
+name: Лачуга гоблина
+roomsCount: 0
+name: Хогвартс
+roomsCount: 10
+name: тайная комната
+peopleCount: 0
+seats: 10
+volume: 1112.3
+name: гостинная гриффиндора
+peopleCount: 103
+seats: 300
+volume: 1545.9
+name: обеденный зал
+peopleCount: 0
+seats: 1000
+volume: 29833.7
+name: кабинет директора
+peopleCount: 1
+seats: 15
+volume: 147.3
+name: кабинет зельеварения
+peopleCount: 3
+seats: 35
+volume: 147.3
+name: внутренний двор
+peopleCount: 0
+seats: 897
+volume: 1471.3
+name: кабинет прорицания
+peopleCount: 1
+seats: 36
+volume: 171.3
+name: домик хагрида
+peopleCount: 1
+seats: 4
+volume: 11.3
+name: туалет плаксы миртл
+peopleCount: 1
+seats: 20
+volume: 131.4
+name: комната с горшками
+peopleCount: 0
+seats: 60
+volume: 19931.46
